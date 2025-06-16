@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, Eu sou Léo</h1>
+<h1 align="center">Oi, Eu sou Léo</h1>
 <h3 align="center">Sempre estudando e explorando o mundo da análise e ciência de dados.</h3>
 
 - 🔭 Atualmente trabalhando com análise e visualização de dados na **Nestle**
